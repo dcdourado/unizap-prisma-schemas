@@ -9,9 +9,9 @@ O projeto é composto por três frentes:
 
 - [Crawler](https://github.com/dcdourado/unizap-crawler)
 - Bot
-  - WhatsApp
+  - [WhatsApp](https://github.com/dcdourado/unizap-wa)
   - Telegram (pendente)
-- Prisma Schemas
+- [Prisma Schemas](https://github.com/dcdourado/unizap-prisma-schemas)
 
 ## Prisma Schemas
 Este repositório centraliza todos os *schemas* utilizados a fim de evitar repetição de código e facilitar a manutenção dos *schemas*.
